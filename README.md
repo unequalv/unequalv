@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @unequalv
-- 👀 I’m interested in Building Dynamic Apps and Websites 
-- 🌱 I’m currently learning Typescript
-- 💞️ I’m looking to collaborate on Javascript and Node.js
-- 📫 How to reach me unequalv@gmail.com
+- 👋 Hi, I’m @unequalv (Goes by Athul V(Vijay(Nambiar)))
+- 👀 This is a place where I upload stuff I build for fun 
+- 🌱 Trying to find meaning in this abyss of confusion  
+- 💞️ Stay Safe and Be Happy
+- 📫 Try to reach me with athulv8899@gmail.com (Hopefully that too does not get hacked) 
 
 <!---
 unequalv/unequalv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
